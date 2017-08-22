@@ -1,0 +1,27 @@
+start reading
+pause
+resume
+stop
+open text file
+convert text to audio
+close text reader
+change voice to brian
+change voice to amy
+change voice to salli
+change voice to microsoft devid
+change voice to microsoft hazel 
+change voice to microsoft zira
+minimize
+hide text reader
+show text reader
+show text reader again
+change voice speed to minis two
+change voice speed to minis four
+change voice speed to minis six
+change voice speed to minis eight
+change voice speed to ten
+change voice speed to two
+change voice speed to four
+change voice speed to six
+change voice speed to eight
+change voice speed to ten

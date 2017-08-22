@@ -1,0 +1,9 @@
+get weather report
+hide weather report
+show weather report
+show weather report again
+get weather forcast for whole week
+pause
+resume
+stop
+Update commands

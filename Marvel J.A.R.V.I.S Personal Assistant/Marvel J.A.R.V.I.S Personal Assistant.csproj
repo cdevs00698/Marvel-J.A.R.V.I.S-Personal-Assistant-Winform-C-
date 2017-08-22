@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F166A264-E139-4C6B-A3F1-EF4050243A19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Marvel_J.A.R.V.I.S_Personal_Assistant</RootNamespace>
+    <AssemblyName>Marvel J.A.R.V.I.S Personal Assistant</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commandlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commandlist.Designer.cs">
+      <DependentUpon>Commandlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateTimeForm.Designer.cs">
+      <DependentUpon>DateTimeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emails.cs" />
+    <Compile Include="HtmlToText.cs" />
+    <Compile Include="JarvisMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JarvisMenu.Designer.cs">
+      <DependentUpon>JarvisMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailReader.Designer.cs">
+      <DependentUpon>MailReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarvelJPA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarvelJPA.Designer.cs">
+      <DependentUpon>MarvelJPA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaPlayer.Designer.cs">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MJLeftMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MJLeftMenu.Designer.cs">
+      <DependentUpon>MJLeftMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MJRightMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MJRightMenu.Designer.cs">
+      <DependentUpon>MJRightMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Name.Designer.cs">
+      <DependentUpon>Name.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reminder.Designer.cs">
+      <DependentUpon>Reminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextReading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextReading.Designer.cs">
+      <DependentUpon>TextReading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Todaynews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todaynews.Designer.cs">
+      <DependentUpon>Todaynews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerticleProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WakeUpAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WakeUpAlarm.Designer.cs">
+      <DependentUpon>WakeUpAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeatherReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeatherReport.Designer.cs">
+      <DependentUpon>WeatherReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebReader.Designer.cs">
+      <DependentUpon>WebReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Websearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Websearch.Designer.cs">
+      <DependentUpon>Websearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubePlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubePlayer.Designer.cs">
+      <DependentUpon>YoutubePlayer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Commandlist.resx">
+      <DependentUpon>Commandlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimeForm.resx">
+      <DependentUpon>DateTimeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JarvisMenu.resx">
+      <DependentUpon>JarvisMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailReader.resx">
+      <DependentUpon>MailReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarvelJPA.resx">
+      <DependentUpon>MarvelJPA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MJLeftMenu.resx">
+      <DependentUpon>MJLeftMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MJRightMenu.resx">
+      <DependentUpon>MJRightMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Name.resx">
+      <DependentUpon>Name.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reminder.resx">
+      <DependentUpon>Reminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextReading.resx">
+      <DependentUpon>TextReading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Todaynews.resx">
+      <DependentUpon>Todaynews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WakeUpAlarm.resx">
+      <DependentUpon>WakeUpAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeatherReport.resx">
+      <DependentUpon>WeatherReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebReader.resx">
+      <DependentUpon>WebReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Websearch.resx">
+      <DependentUpon>Websearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubePlayer.resx">
+      <DependentUpon>YoutubePlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jarvis-clock-main.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\backicon.png" />
+    <Content Include="Resources\blowing-snow.png" />
+    <Content Include="Resources\blustery.png" />
+    <Content Include="Resources\bottom-border.jpg" />
+    <Content Include="Resources\clear-night.png" />
+    <Content Include="Resources\clock-buttons-bg.png" />
+    <Content Include="Resources\cloudy.PNG" />
+    <Content Include="Resources\cold.png" />
+    <Content Include="Resources\Cp-icons.png" />
+    <Content Include="Resources\Cp-icons1.png" />
+    <Content Include="Resources\DateTime.png" />
+    <Content Include="Resources\DateTimebg.png" />
+    <Content Include="Resources\display-dna-jarvis-them.gif" />
+    <Content Include="Resources\drive-info.gif" />
+    <Content Include="Resources\drizzle.png" />
+    <Content Include="Resources\dust.png" />
+    <Content Include="Resources\email-icon.png" />
+    <Content Include="Resources\fair-day.png" />
+    <Content Include="Resources\fair-night.png" />
+    <Content Include="Resources\foggy.png" />
+    <Content Include="Resources\forwardicon.png" />
+    <Content Include="Resources\freezing-drizzle.png" />
+    <Content Include="Resources\freezing-rain.png" />
+    <Content Include="Resources\hail.png" />
+    <Content Include="Resources\haze.png" />
+    <Content Include="Resources\heavy-snow.png" />
+    <Content Include="Resources\hot.png" />
+    <Content Include="Resources\initial-bg.png" />
+    <Content Include="Resources\isolated-thundershowers.png" />
+    <Content Include="Resources\jarvis-background-01.jpg" />
+    <Content Include="Resources\jarvis-background-blue.jpg" />
+    <Content Include="Resources\jarvis-background-mainblue.jpg" />
+    <Content Include="Resources\jarvis-background-red.jpg" />
+    <Content Include="Resources\jarvis-background.jpg" />
+    <Content Include="Resources\jarvis-bio-process.gif" />
+    <Content Include="Resources\jarvis-center-clock-main002.gif" />
+    <Content Include="Resources\jarvis-Map-of-NYC.gif" />
+    <Content Include="Resources\jarvis-menu-button-browse.png" />
+    <Content Include="Resources\jarvis-menu-button-change-skin.png" />
+    <Content Include="Resources\jarvis-menu-button-email-reader.png" />
+    <Content Include="Resources\jarvis-menu-button-face-recog.png" />
+    <Content Include="Resources\jarvis-menu-button-facebook-msg.png" />
+    <Content Include="Resources\jarvis-menu-button-media-player.png" />
+    <Content Include="Resources\jarvis-menu-button-name-panel.png" />
+    <Content Include="Resources\jarvis-menu-button-onlinetv.png" />
+    <Content Include="Resources\jarvis-menu-button-reminder.png" />
+    <Content Include="Resources\jarvis-menu-button-right-news.png" />
+    <Content Include="Resources\jarvis-menu-button-right-settings.png" />
+    <Content Include="Resources\jarvis-menu-button-right-skype.png" />
+    <Content Include="Resources\jarvis-menu-button-right-weather.png" />
+    <Content Include="Resources\jarvis-menu-button-right-webreader.png" />
+    <Content Include="Resources\jarvis-menu-button-right.png" />
+    <Content Include="Resources\jarvis-menu-button-search-web.png" />
+    <Content Include="Resources\jarvis-menu-button-start-menu.png" />
+    <Content Include="Resources\jarvis-menu-button-text-reader.png" />
+    <Content Include="Resources\jarvis-menu-button-voice-commands.png" />
+    <Content Include="Resources\jarvis-menu-button-weather-repoart.png" />
+    <Content Include="Resources\jarvis-menu-button-webcompiler.png" />
+    <Content Include="Resources\jarvis-menu-button-website-reader.png" />
+    <Content Include="Resources\jarvis-menu-button.png" />
+    <Content Include="Resources\jarvis-radar.gif" />
+    <Content Include="Resources\jarvis-rain-mettor.gif" />
+    <Content Include="Resources\jarvis-satalite-map.gif" />
+    <Content Include="Resources\jarvis-suit.gif" />
+    <Content Include="Resources\jarvis-suit2.gif" />
+    <Content Include="Resources\jarvis-timer-mettor.png" />
+    <Content Include="Resources\Jarvis-Tornado-indecator.gif" />
+    <Content Include="Resources\jarvis-vartual-dna.gif" />
+    <Content Include="Resources\jarvisbackgroundblueandred.gif" />
+    <Content Include="Resources\light-snow-showers.png" />
+    <Content Include="Resources\mailreader-bg.png" />
+    <Content Include="Resources\Marvel.ico" />
+    <Content Include="Resources\Marvelicon.png" />
+    <Content Include="Resources\MarvelIcons.ico" />
+    <Content Include="Resources\media-btnfastfarword.png" />
+    <Content Include="Resources\media-btnfastreverse.png" />
+    <Content Include="Resources\media-btnloop.png" />
+    <Content Include="Resources\media-btnpause.png" />
+    <Content Include="Resources\media-btnplay.png" />
+    <Content Include="Resources\media-btnprevous.png" />
+    <Content Include="Resources\media-btnstop.png" />
+    <Content Include="Resources\media-btnvolum.png" />
+    <Content Include="Resources\media-next.png" />
+    <Content Include="Resources\media-previous.png" />
+    <Content Include="Resources\mediaplayer-bg.jpg" />
+    <Content Include="Resources\mediaplayeraddplaylist.png" />
+    <Content Include="Resources\mediaplayerfullscreen.png" />
+    <Content Include="Resources\mediaplayericon.png" />
+    <Content Include="Resources\mediaplayervolumedown.png" />
+    <Content Include="Resources\mediaplayervolumeup.png" />
+    <Content Include="Resources\mediaplayervolumeupp.png" />
+    <Content Include="Resources\mic.png" />
+    <Content Include="Resources\mixed-rain-and-hail.png" />
+    <Content Include="Resources\mixed-rain-and-sleet.png" />
+    <Content Include="Resources\mixed-rain-and-snow.png" />
+    <Content Include="Resources\MJPA.ico" />
+    <Content Include="Resources\mostly-cloudy.png" />
+    <Content Include="Resources\partly-cloudy.PNG" />
+    <Content Include="Resources\pause-icon.png" />
+    <Content Include="Resources\reminder-bg.png" />
+    <Content Include="Resources\scan-icons.png" />
+    <Content Include="Resources\scattered-snow-showers.png" />
+    <Content Include="Resources\setting-manager-icons.png" />
+    <Content Include="Resources\severe-thunderstorms.png" />
+    <Content Include="Resources\showers.png" />
+    <Content Include="Resources\skype-icon.png" />
+    <Content Include="Resources\sleet.png" />
+    <Content Include="Resources\smoky.png" />
+    <Content Include="Resources\snow-flurries.png" />
+    <Content Include="Resources\snow-showers.png" />
+    <Content Include="Resources\snow.png" />
+    <Content Include="Resources\speak-icon.png" />
+    <Content Include="Resources\start-menu-icon.png" />
+    <Content Include="Resources\stop-icon.png" />
+    <Content Include="Resources\sunny.png" />
+    <Content Include="Resources\task-manager-icons.png" />
+    <Content Include="Resources\text-reader-icon-news.png" />
+    <Content Include="Resources\text-reader-icon.png" />
+    <Content Include="Resources\textreader-bg.png" />
+    <Content Include="Resources\thundershowers.png" />
+    <Content Include="Resources\thunderstorms.png" />
+    <Content Include="Resources\timer-mettor.gif" />
+    <Content Include="Resources\tornado.png" />
+    <Content Include="Resources\weather-icon.png" />
+    <Content Include="Resources\whatsapp-icon.png" />
+    <Content Include="Resources\whatsappbg.jpg" />
+    <Content Include="Resources\wifi-icon.png" />
+    <Content Include="Resources\windy.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

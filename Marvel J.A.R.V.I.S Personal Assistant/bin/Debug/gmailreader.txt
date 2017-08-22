@@ -1,0 +1,16 @@
+start reading
+login to gmail
+get all emails
+get all inbox emails
+close this
+minimize
+hide gmail reader
+show gmail reader
+show gmail reader again
+close gmail reader
+send my email
+stop reading
+check for new emails
+read the email
+next email
+previous email

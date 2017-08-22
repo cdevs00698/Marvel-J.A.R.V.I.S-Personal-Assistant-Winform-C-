@@ -1,0 +1,5 @@
+play
+play previous song
+stop
+stop music
+close youtube player

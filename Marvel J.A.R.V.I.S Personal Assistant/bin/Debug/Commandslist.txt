@@ -1,0 +1,11 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+show voice commands list|show voice commands list|false
+show voice commands list again|show voice commands list again|false
+hide command list|hide command list|false
+minimize|minimize|false
+close this|close this|false
+close voice command list panel|close voice command list panel|false
+-- commands --

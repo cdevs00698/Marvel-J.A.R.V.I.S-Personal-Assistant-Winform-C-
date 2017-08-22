@@ -1,0 +1,26 @@
+c:\users\saleem raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\bin\Debug\Marvel J.A.R.V.I.S Personal Assistant.exe.config
+c:\users\saleem raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel J.A.R.V.I.S Personal Assistant.csprojResolveAssemblyReference.cache
+c:\users\saleem raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Properties.Resources.resources
+c:\users\saleem raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel J.A.R.V.I.S Personal Assistant.csproj.GenerateResource.Cache
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\bin\Debug\Marvel J.A.R.V.I.S Personal Assistant.exe
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\bin\Debug\Marvel J.A.R.V.I.S Personal Assistant.pdb
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel J.A.R.V.I.S Personal Assistant.exe
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel J.A.R.V.I.S Personal Assistant.pdb
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.MarvelJPA.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.DateTimeForm.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Name.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Todaynews.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Commandlist.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.JarvisMenu.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.MailReader.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.MediaPlayer.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.MJLeftMenu.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.MJRightMenu.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Reminder.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Settings.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.TextReading.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.WakeUpAlarm.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.WeatherReport.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.WebReader.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.Websearch.resources
+C:\Users\Saleem Raza\documents\visual studio 2015\Projects\Marvel J.A.R.V.I.S Personal Assistant\Marvel J.A.R.V.I.S Personal Assistant\obj\Debug\Marvel_J.A.R.V.I.S_Personal_Assistant.YoutubePlayer.resources

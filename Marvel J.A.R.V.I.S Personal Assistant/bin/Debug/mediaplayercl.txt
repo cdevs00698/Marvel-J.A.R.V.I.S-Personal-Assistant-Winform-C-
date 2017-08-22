@@ -1,0 +1,20 @@
+open play list
+add play list
+minimize
+hide media player
+show media player
+show media player again
+play
+fast forward
+fast reverse
+resume
+pause
+stop
+previous
+next
+media player full screen
+full screen
+mute volume
+volume up
+close media player
+exit full screen

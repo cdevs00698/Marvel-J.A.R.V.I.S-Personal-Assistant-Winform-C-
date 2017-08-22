@@ -1,0 +1,20 @@
+Update commands
+start reading
+search
+go
+enter
+pause
+resume
+stop
+convert text to audio
+close this
+close website reader
+minimize
+hide website reader
+show website reader
+show website reader again
+change voice to brian
+change voice to amy
+change voice to salli
+change voice to microsoft devid
+change voice to microsoft zira

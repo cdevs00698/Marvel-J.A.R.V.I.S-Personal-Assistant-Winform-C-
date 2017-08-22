@@ -1,0 +1,1991 @@
+pause
+resume
+stop
+weather forcast for whole week
+get weather report
+minimize
+hide weather report
+show weather report
+show weather report again
+close this
+close weather report
+Aalborg Denmark
+Abbotsford BC
+Aberdeen Prv Gnd MD
+Aberdeen ID
+Aberdeen MD
+Aberdeen Scotland
+Aberdeen SD
+Aberdeen WA
+Abilene KS
+Abilene TX
+Acapulco Mexico
+Accra Ghana
+Ada MN
+Adak AK
+Adams MA
+Addis Ababa Ethiopia
+Adelaide Australia
+Aden Yemen
+Afton OK
+Afton WY
+Agana NAS Guam
+Ahwahnee CA
+Aiken SC
+Ainsworth NE
+Ajo AZ
+Akron OH
+Al Manamah Bahrain
+Alameda CA
+Alamo NV
+Alamogordo NM
+Albany GA
+Albany NY
+Albany OR
+Albion ID
+Albuquerque NM
+Alcoa TN
+Aldermaston
+Alert
+Alexander City AL
+Alexandria Egypt
+Alexandria LA
+Alexandria VA
+Algiers Algeria
+Alhambra CA
+Alice Springs Austral
+Allen AAF AK
+Allentown PA
+Alliance NE
+Alpharetta GA
+Alpine CA
+Altenstadt Germany
+Altoona PA
+Amami Island Japan
+Amarillo TX
+Ambler AK
+Amchitka AK
+American Falls ID
+Ames IA
+Amherst OH
+Amilcar Cabral C. Ver
+Amman Jordan
+Amsterdam Neth.
+Anaconda MT
+Anaheim CA
+Anchorage AK
+Anderson AFB Guam
+Anderson IN
+Anderson SC
+Angaur Island
+Ankara Turkey
+Ann Arbor MI
+Annapolis MD
+Annette Is. AK
+Anniston AL
+Ansbach Germany
+Antigua
+Antlers OK
+Antofagasta Chile
+Antwerp Belgium
+Appleton WI
+Aqaba Jordan
+Arcade Arden CA
+Ardmore OK
+Arese Italy
+Argyle MN
+Arica Chile
+Arkadelphia AR
+Arlington Hts. IL
+Arlington MA
+Arlington TX
+Arlington VA
+Armour SD
+:Arvada CO
+Ascension
+Ash Fork AZ
+Asheville NC
+Ashland KS
+Ashland KY
+Ashland ME
+Ashley ND
+Asmara Ethiopia
+Aspen CO
+Astoria OR
+Asuncion Paraguay
+Aswan Egypt
+Athens GA
+Athens Greece
+Athens TN
+Atkinson NE
+Atlanta GA
+Atlantic City NJ
+Atmore AL
+Attleboro MA
+Auburn AL
+Auburn ME
+Auckland New Zealand
+Augusta AR
+Augusta GA
+Augusta ME
+Aurora CO
+Aurora IL
+Aurora MN
+Austin NV
+Austin TX
+Avalon Australia
+Aviano Italy
+Avon CT
+Ayase Japan
+Aztec NM
+Babelthuap Island
+Bacolod Philippines
+Baden Baden Germany
+Baghdad Iraq
+Bahrain U.A.E.
+Baie Comeau PQ
+Baker MT
+Bakersfield CA
+Balboa Panama
+Baldwin Park CA
+Bali
+Baltimore MD
+Bamberg Germany
+Bandar Abbass Iran
+Bandar Lengeh Iran
+Bandirma Turkey
+Banff AB
+Bangalore India
+Bangkok Thailand
+Bangor ME
+Banjul Gambia
+Bar Harbor ME
+Baraboo WI
+Barbados
+Barcelona Spain
+Barnesville OH
+Barranquilla Colombia
+Barre VT
+Barron WI
+Barrow AK
+Barstow CA
+Bartlesville OK
+Barton VT
+Basrah Iran
+Batesburg SC
+Baton Rouge LA
+Battle Creek MI
+Bay City MI
+Bay St. Louis MS
+Bayonne NJ
+Baytown TX
+Beach ND
+Beatty NV
+Beaufort SC
+Beaumont TX
+Beaver UT
+Beaverton OR
+Beckley WV
+Beijing China
+Beirut Lebanon
+Beja Portugal
+Belem Brazil
+Belen NM
+Belfast N. Ireland
+Belgrade Serbia
+Belize City
+Belleville IL
+Bellevue NE
+Bellevue WA
+Bellflower CA
+Bellingham WA
+Bellows Falls VT
+Ben Guerir Morocco
+Bend OR
+Bennington VT
+Benton AR
+Bergen Norway
+Berkeley CA
+Berlin Germany
+Berlin NH
+Bermuda
+Bern Switzerland
+Bethel AK
+Bethesda MD
+Bethlehem PA
+Bettendorf IA
+Bettles Field AK
+Biddeford ME
+Big Delta AK
+Big Lake AK
+Billings MT
+Biloxi MS
+Binghamton NY
+Birmingham AL
+Birmingham England
+Bismarck ND
+Bitburg Germany
+Blackpool England
+Blackwell OK
+Bloomfield NJ
+Bloomington IL
+Bloomington IN
+Bloomington MN
+Bluefield WV
+Bluff UT
+Boca Raton FL
+Bodo Norway
+Bogalusa LA
+Bogota Colombia
+Boise City OK
+Boise ID
+Bologna Italy
+Bombay India
+Bonn Germany
+Boone NC
+Booneville KY
+Bordeaux France
+Bordentown NJ
+Borinquen PR
+Boscobel WI
+Bossier City LA
+Boston MA
+Boulder City NV
+Boulder Creek CA
+Boulder CO
+Bountiful UT
+Bowie MD
+Bowling Green KY
+Bowman ND
+Bozeman MT
+Bradshaw AAF HI
+Brandon MB
+Brandon VT
+Brasilia Brazil
+Brattleboro VT
+Bremen Germany
+Bremerton WA
+Brest France
+Bridgeport CT
+Bridgeton NJ
+Brilliant OH
+Brisbane Australia
+Bristol CT
+Bristol England
+Bristol RI
+Bristol TN
+Bristol VT
+Brize Norton England
+Brockton MA
+Broken Arrow OK
+Brookings OR
+Brookings SD
+Brookline MA
+Brooklyn Park MN
+Brookside Park DE
+Brownsville TX
+Brunei
+Brunswick GA
+Brunswick ME
+Brussels Belgium
+Bucharest Romania
+Buckeburg Germany
+Budapest Hungary
+Buena Park CA
+Buenos Aires Argent.
+Buffalo NY
+Buffalo WY
+Burbank CA
+Burlington CO
+Burlington CT
+Burlington IA
+Burlington NC
+Burlington VT
+Burlington WA
+Burns OR
+Burwash YT
+Butte MT
+Butterworth Malaysia
+Cairo Egypt
+Calais Dunkirk France
+Calcutta India
+Caldwell ID
+Calgary Alberta
+Caliente NV
+Cambridge England
+Cambridge MA
+Cambridge MD
+Camden NJ
+Canberra Australia
+Cannes France
+Canoga Park CA
+Canton China
+Canton OH
+Cantonsville MD
+Cape Canaveral FL
+Cape Girardeau MO
+Cape May NJ
+Cape Town So Africa
+Caracas Venezuela
+Carbonado WA
+Carbondale IL
+Cardiff Wales
+Carlton MN
+Carmichael CA
+Carrizozo NM
+Carrollton GA
+Carson City NV
+Carson CA
+Cartersville GA
+Cary IL
+Casa Grande AZ
+Casablanca Morocco
+Casper WY
+Castlerock WA
+Cave Creek AZ
+Cayenne Fr. Guiana
+Cedar City UT
+Cedar Falls IA
+Cedar Rapids IA
+Central Islip NY
+Centreville MD
+Cerritos CA
+Chagrin Falls OH
+Champaign IL
+Chapel Hill NC
+Charleston SC
+Charleston WV
+Charlevoix PQ
+Charlotte NC
+Charlottesville VA
+Charlottetown PEI
+Chatham NB
+Chattanooga TN
+Cheju S. Korea
+Cheltenham PA
+Cheraw SC
+Cherbourg France
+Cherokee OK
+Chesapeake VA
+Chester CT
+Chester PA
+Cheyenne WY
+Chiang Mai Thailand
+Chibougamau PQ
+Chicago IL
+Chiclayo Peru
+Chicopee MA
+Chignik AK
+Chillicothe IL
+Chillicothe MO
+Chillicothe OH
+Chino Hills CA
+Chino CA
+Chinook MT
+Chitose Japan
+Chittagong Bangladesh
+Christchurch N Zealan
+Christmas Island
+Chula Vista CA
+Churchill MB
+Chuuk Micronesia
+Cicero IL
+Cincinnati OH
+Circle AK
+Circleville OH
+Claremont NH
+Clark NJ
+Clarksburg WV
+Clarksdale MS
+Clarksville TN
+Claymont DE
+Clear Lake City TX
+Clear AK
+Clearlake CA
+Clearwater FL
+Cleveland OH
+Cleveland TN
+Clifton NJ
+Clinton IA
+Clovis NM
+Cockeysville MD
+Cocos Island
+Cody WY
+Cold Bay AK
+Cold Lake AB
+College Park MD
+Collegedale TN
+Cologne Germany
+Colombo Sri Lanka
+Colon Panama
+Colorado Springs CO
+Columbia Stn. OH
+Columbia MO
+Columbia SC
+Columbia TN
+Columbus GA
+Columbus MS
+Columbus NE
+Columbus OH
+Comox BC
+Compton CA
+Concepcion Chile
+Concord CA
+Concord NH
+Condon OR
+Conway AR
+Conway NH
+Copenhagen Denmark
+Coralville IA
+Corbin KY
+Cordova AK
+Corinth MS
+Corning IA
+Corpus Christi TX
+Cortez CO
+Corvallis OR
+Costa Mesa CA
+Council Bluffs IA
+Covington KY
+Cranbrook BC
+Cranford NJ
+Cranston RI
+Crawford NE
+Crestwood KY
+Crestwood MO
+Creve Coeur IL
+Cripple Creek CO
+Crocker MO
+Crofton NE
+Cubi Point Philippine
+Culver City CA
+Cumberland MD
+Cut Bank MT
+Dacca Bangladesh
+Dakar Senegal
+Dallas TX
+Dalsbruk Finland
+Daly City CA
+Damascus Syria
+Danbury CT
+Danielson CT
+Danville IA
+Danville VA
+Dar es Salaam Tanzan
+Darwin Australia
+Davenport IA
+Dayton OH
+Dayton TN
+Daytona Beach FL
+Deadhorse AK
+Dearborn Heights MI
+Dearborn MI
+Decataur IL
+Decimomannu Italy
+Dekalb IL
+Del Rio TX
+Delavan WI
+Delhi LA
+Delta Jct AK
+Delta UT
+DeMotte IN
+Denali Nat l Park AK
+Denton TX
+Denver CO
+Derby CT
+Derby England
+Derry NH
+Des Moines IA
+Des Plaines IL
+Desiderio AAF S Kore
+Detroit MI
+Devils Lake ND
+Dhahran Saudi Arabia
+Diamond Bar CA
+:Diamond Springs CA
+Dickinson ND
+Dickinson TX
+Diego Garcia
+Dijon France
+Dillingham HI
+Dillon MT
+Dillon SC
+Diyarbakir Turkey
+Djakarta Indonesia
+Djibouti
+Dodge City KS
+Doha Qatar
+Dortmund Germany
+Dothan AL
+Douala Cameroon
+Dover AFB DE
+Dover DE
+Dover England
+Dover FL
+Dover NH
+Downey CA
+Dryden ON
+Dubai UAE
+Dublin Ireland
+Dubrovnik Croatia
+Dubuque IA
+Duluth MN
+Dundalk MD
+Dunedin New Zealand
+Dunlap IA
+Durango CO
+Durham NC
+Dusseldorf Germany
+E Brunswick NJ
+E Lansing MI
+E Las Vegas NV
+E Los Angeles CA
+E St Louis IL
+E Stroudsburg PA
+E Wenatchee WA
+Eagan MN
+Eagle River AK
+Eagle AK
+East Boston MA
+East Orange NJ
+East Point GA
+Eastampton NJ
+Eatonton GA
+Eau Claire WI
+Edina MN
+Edinburgh Scotland
+Edmond OK
+Edmonds WA
+Edmundston NB
+Edna TX
+Edwards AFB CA
+Efate Vanuatu
+Effingham IL
+Eielson AFB AK
+El Cajon CA
+El Dorado AR
+El Mirage AZ
+El Monte CA
+El Paso TX
+Eldorado IL
+Eldridge IA
+Elgin AFB FL
+Elgin IL
+Elizabeth City NC
+Elizabeth NJ
+Elizabethtown KY
+Elk City OK
+Elk Point SD
+Elk River ID
+Elkhart IN
+Elkins WV
+Elko NV
+Ellsworth AFB SD
+Elmira NY
+Elsmere DE
+Elverson PA
+Elyria OH
+Enfield CT
+Englewood CO
+Enid OK
+Ephrata PA
+Erding Germany
+Erfurt Germany
+Erie PA
+Escondido CA
+Esfahan Iran
+Essex Junction VT
+Euclid OH
+Eudora AR
+Eugene OR
+Eureka CA
+Eureka NV
+Eureka UT
+Evanston IL
+Evanston WY
+Evansville IN
+Everett WA
+Evergreen CO
+Ewa HI
+Exeter NH
+Fair Haven VT
+Fairbanks AK
+Fairfax MN
+Fairfax SC
+Fairfield CA
+Fairfield CT
+Fairmont WV
+Faith SD
+Falcon CO
+Fall River MA
+Fallon NV
+Falmouth KY
+Fargo ND
+Farmington NM
+Farnborough England
+Fayetteville AR
+Fayetteville NC
+Ferriday LA
+Finningley England
+Fisher LA
+Fitchburg MA
+Flagstaff AZ
+Flint MI
+Florala AL
+Florence AL
+Florence SC
+Florissant MO
+Flower Mound TX
+Folsom NM
+Fond du Lac WI
+Ford Island HI
+Forrest City AR
+Forsyth MT
+Fort Collins CO
+Fort Dodge IA
+Fort Greely AK
+Fort Lauderdale FL
+Fort McMurray AB
+Fort McPherson NWT
+Fort Myers FL
+Fort Nelson BC
+Fort Payne AL
+Fort Richardson AK
+Fort Riley KS
+Fort Salonga NY
+Fort Scott KS
+Fort Simpson NWT
+Fort Smith AR
+Fort Yukon AK
+Fountain Valley CA
+Framingham MA
+Frankfort KY
+Frankfurt Germany
+Franklin NH
+Franklin TN
+Frederick MD
+Fredericksburg VA
+Fredericktown MO
+Fredericton NB
+Freehold NJ
+Freeport Bahamas
+Freiburg Germany
+Fremont CA
+Fremont NE
+Fresno CA
+Fruitland Park FL
+Ft Myers FL
+Ft Wayne IN
+Ft Worth TX
+Fukuoka Japan
+Fullerton CA
+Funchal Madeira Is
+Furth Germany
+Gadsden AL
+Gaillac France
+Gainesville FL
+Gainesville GA
+Gaithersburg MD
+Galena AK
+Gallup NM
+Galveston TX
+Gander Nfld
+Garden City KS
+Garden Grove CA
+Garland TX
+Garland UT
+Garrison ND
+Gars am Inn Germany
+Gary IN
+Gaspe PQ
+Gassaway WV
+Gastonia NC
+Gdansk Poland
+Geilenkirchen Germany
+Geneva Switz
+Genoa Italy
+Georgetown DE
+Georgetown Guyana
+Gera Germany
+Gibraltar
+Gila Bend AZ
+Gillette WY
+Glasgow KY
+Glasgow Scotland
+Glendale AZ
+Glendale CA
+Glendora CA
+Glenns Ferry ID
+Glens Falls NY
+Glenwood Springs CO
+Glenwood MN
+Godthab Greenland
+Goldfield NV
+Goldsboro NC
+Goldstone CA
+Goose Bay Nfld
+Goose Creek SC
+Gorham ME
+Granada Hills CA
+Grand Cayman Island
+Grand Forks ND
+Grand Island NE
+Grand Junction CO
+Grand Prairie TX
+Grand Rapids MI
+Grand Turk Island
+Granger WY
+Grangeville ID
+Granite Falls MN
+Grants Pass OR
+Grass Valley CA
+Great Falls MT
+Great Falls SC
+Greeley CO
+Green Bay WI
+Green River UT
+Green River WY
+Greenbelt MD
+Greensboro NC
+Greenville ME
+Greenville MS
+Greenville SC
+Greenville TN
+Greenwich Obs England
+Greenwich CT
+Greenwood MS
+Greenwood SC
+Grenoble France
+Gresham OR
+Grissom AFB IN
+Groton SD
+Groveton NH
+Guantanamo Bay Cuba
+Guatemala City
+Guayaquil Ecuador
+Guelph ON
+Guernsey
+Gulfport MS
+Gulkana AK
+Gutersloh Germany
+Guthrie OK
+Hagerstown MD
+Haiku HI
+Hailey ID
+Haines AK
+Halifax NS
+Hamburg Germany
+Hamden CT
+Hamilton OH
+Hamilton ON
+Hammond IN
+Hampton VA
+Hana HI
+Hancock MI
+Hankinson ND
+Hannah ND
+Hannibal MO
+Hannover Germany
+Hao AB Fr Polynesia
+Harper Woods MI
+Harpers Ferry WV
+Harrington DE
+Harrisburg PA
+Harrisburg SD
+Harrison AR
+Harrisonburg VA
+Hartford CT
+Harvey ND
+Hastings NE
+Hat Yai Thailand
+Hattiesburg MS
+Hauula HI
+Havana Cuba
+Havre MT
+Hawthorne CA
+Hawthorne NV
+Hayward CA
+Hazard KY
+Helena MT
+Helgoland Germany
+Helsinki Finland
+Henderson KY
+Henderson NV
+Hendersonville TN
+Herndon VA
+Hialeah FL
+Hickory NC
+High Point NC
+Highland Lakes NJ
+Highmore SD
+Hill City MN
+Hillsboro ND
+Hillsboro OR
+Hilo HI
+Hinton WV
+Hobbs NM
+Holbrook AZ
+Hollis Hills NY
+Holliston MA
+Holly Springs MS
+Hollywood CA
+Hollywood FL
+Holyoke MA
+Homer AK
+Hong Kong
+Honiara Guadalcanal
+Honington England
+Honolulu HI
+Hooker OK
+Hooper Bay AK
+Hopkinsville KY
+Hot Springs Nat Pk AR
+Houma LA
+Houston TX
+Humboldt NE
+Huntington Beach CA
+Huntington Station NY
+Huntington WV
+Huntsville AL
+Hurley WI
+Huron SD
+Hutchinson KS
+Hutchinson MN
+Hyltebruk Sweden
+Idaho FallsID
+Incirlik Turkey
+Independence KS
+Independence MO
+Indianapolis IN
+Inglewood CA
+Innsbruck Austria
+Inuvik NWT
+Invercargill New Zeal
+Iowa City IA
+Ipswich Australia
+Iqaluit NWT
+Iron River MI
+Irvine CA
+Irving TX
+Irvington NJ
+Islamabad Pakistan
+Isle of Man
+Istanbul Turkey
+Istrana Italy
+Jackson MI
+Jackson MS
+Jackson TN
+Jacksonville AR
+Jacksonville FL
+Jakarta Indonesia
+Jaluit Marshall Is
+Jamestown ND
+Janesville WI
+Jasper AB
+Jatiluhur Indonesia
+Jeddah Saudia Arabia
+Jefferson City MO
+Jensen Beach FL
+Jersey City NJ
+Jerusalem Israel
+Johannesburg S Africa
+Johnson City TN
+Johnston Atoll
+Johnstown PA
+Joliet IL
+Jonesboro AR
+Joplin MO
+Julian CA
+Juneau AK
+Kabul Afghanistan
+Kaena Point HI
+Kahului HI
+Kailua Kona HI
+Kalamazoo MI
+Kalapana HI
+Kalaupapa HI
+Kalispell MT
+Kamloops BC
+Kamuela HI
+Kanab UT
+Kaneohe Bay HI
+Kankakee IL
+Kannapolis NC
+Kano Nigeria
+Kansas City KS
+Kapaa HI
+Kapalua HI
+Kapuskasing ON
+Karachi Pakistan
+Kassel Germany
+Kathmandu Nepal
+Kaunakakai HI
+Keahole HI
+Kearney NE
+Keene NH
+Keflavik Iceland
+Kekaha HI
+Kelso WA
+Kenai AK
+Kennebunk ME
+Kenner LA
+Kenora ON
+Kenosha WI
+Ketchikan AK
+Kettering OH
+Khania Greece
+Khartoum Sudan
+Kiel Germany
+Kili Marshall Is
+Kimball NE
+King George VA
+King Salmon AK
+Kingman AZ
+Kings Beach Australia
+Kingsport TN
+Kingston Jamaica
+Kingston ON
+Kinshasa Zaire
+Kissimmee FL
+Kit Carson CO
+Kitchener ON
+Klamath Falls OR
+Knightdale NC
+Knoxville TN
+Kodiak AK
+Kohala HI
+Koko Head HI
+Kokomo IN
+Koln Bonn AB Germany
+Koloa HI
+Kona HI
+Korat Thailand
+Kosrae Micronesia
+Kota Kinabalu Malaysi
+Kotzebue AK
+Kuala Lumpur Malaysia
+Kuching Malaysia
+Kure Island
+Kuwait City
+Kwajalein Atoll
+Kyoto Japan
+L Taghkanic St Pk
+La Crosse WI
+La Grande OR
+La Grange GA
+La Mesa CA
+La Paz Bolivia
+La Rochelle France
+La Verne CA
+Laconia NH
+Lafayette IN
+Lafayette LA
+Lagos Nigeria
+Lahore Pakistan
+Lahr Germany
+Lajes Azores
+Lake Charles LA
+Lake City FL
+Lake Oswego OR
+Lake Villa IL
+Lake Village AR
+Lakeland FL
+Lakewood CO
+Lakewood OH
+Lakota ND
+Lamar CO
+Lanai City HI
+Lancaster NH
+Lancaster PA
+Lander WY
+Lansing MI
+LaPeer MI
+Laramie WY
+Laredo TX
+Largo FL
+Las Cruces NM
+Las Palmas Canary Is
+Las Vegas NV
+Latham Australia
+Laurel DE
+Laurel MD
+Laurel MS
+Laval PQ
+Lawrence KS
+Lawrence MA
+Lawton OK
+Layton UT
+Le Havre France
+Learmonth Australia
+Leavenworth KS
+Leavenworth WA
+Lebanon KY
+Lebanon MO
+Lebanon NH
+Lechfeld AFB BY Germ
+Leck Germany
+Leeds England
+Leipzig Germany
+Lemmon SD
+Leningrad Russia
+Lethbridge AB
+Lewes DE
+Lewisburg WV
+Lewiston ID
+Lewiston ME
+Lewiston NY
+Lewistown MT
+Lexington KY
+Lhasa Tibet
+Libreville Gabon
+Lihue HI
+Lima OH
+Lima Peru
+Lincoln Muni NE
+Lincoln KS
+Lincoln ME
+Lincoln NE
+Lindenhurst NY
+Linz Austria
+Lisbon ND
+Lisbon Portugal
+Little Rock AR
+Littleton NH
+Liverpool England
+Livingston AL
+Livingston MT
+Livonia MI
+Lockwood Valley CA
+Logan UT
+Lolo MT
+Lompoc CA
+London England
+London ON
+Long Beach CA
+Longview TX
+Longview WA
+Lorain OH
+Lordsburg NM
+Los Alamos NM
+Los Altos Hills CA
+Los Angeles CA
+Louisville GA
+Louisville KY
+Loveland CO
+Lovelock NV
+Lowell MA
+Lubbock TX
+Ludwigshafen Germany
+Lusaka Zambia
+Luxembourg City
+Lynchburg VA
+Lynden WA
+Lynn Haven FL
+Lynn MA
+Lyon France
+Macao
+Mackay ID
+Macon GA
+Madelia MN
+Madison AL
+Madison SD
+Madison WI
+Madras India
+Madrid Spain
+Magdalena NM
+Magnolia AR
+Maiquetia Venezuela
+Majuro Marshall Is
+Malden MA
+Male Maldive Is
+Maloelap Marshall Is
+Malone NY
+Malta
+Managua Nicaragua
+Manaus Brazil
+Manchester CT
+Manchester England
+Manchester NH
+Mandalay Myanmar
+Mandan ND
+Mangum OK
+Manhattan Beach CA
+Manhattan KS
+Manila Philippines
+Manitowoc WI
+Mannheim Germany
+Mansfield OH
+Manton CA
+Mantorville MN
+Marietta GA
+Marion VA
+Marlton NJ
+Marquette MI
+Marseille France
+Marshall TX
+Martinsburg WV
+Martinsville VA
+Mashpee MA
+Mason City IA
+Mauldin SC
+Mayaguez PR
+Maysville KY
+Mc Alester OK
+Mc Cook NE
+Mc Gill NV
+Mc Nary LA
+McAllen TX
+McGrath AK
+McKeesport PA
+McNary AZ
+Medford MA
+Medford OR
+Medicine Hat AB
+Melbourne Australia
+Melbourne FL
+Melksham England
+Melrose Park IL
+Memphis TN
+Mena AR
+Meredith NH
+Meriden CT
+Meridian MS
+Meridianville AL
+Merrimack NH
+Merritt Island FL
+Mesa AZ
+Mesquite TX
+Metairie LA
+Mexico City Mexico
+Mexico MO
+Miami FL
+Midas NV
+Middlebury VT
+Middletown DE
+Midland TX
+Midway Island
+Midwest City OK
+Milan Italy
+Milbank SD
+Milford CT
+Milford DE
+Milford NH
+Milford UT
+Mili Marshall Is
+Milledgeville GA
+Miller SD
+Millinocket ME
+Millville NJ
+Milpitas CA
+Milwaukee WI
+Mine Hill NJ
+Minneapolis MN
+Minnetonka MN
+Minot ND
+Miquelon Is  Miquelon
+Miramar NAS CA
+Miramar FL
+Mishawaka IN
+Mississauga ON
+Missoula MT
+Mitchell SD
+Mobile AL
+Mobridge SD
+Modesto CA
+Moenkopi AZ
+Moline IL
+Molokai HI
+Monaco
+Moncton NB
+Monroe LA
+Monrovia Liberia
+MontJoli PQ
+Montebello CA
+Montego Bay Jamaica
+Monterey Park CA
+Monterey CA
+Montevideo Uruguay
+Montgomery AL
+Monticello IN
+Monticello ME
+Monticello UT
+Montour Falls NY
+Montpelier IN
+Montpelier VT
+Montpellier France
+Montreal PQ
+Moore OK
+Moose Jaw Sask
+Morehead KY
+Morgan City LA
+Morgantown WV
+Moron AB Spain
+Morristown NJ
+Morristown TN
+Morrow GA
+Moscow ID
+Moscow Russia
+Moses Lake WA
+Mount Erebus Antarcti
+Mount Hopkins AZ
+Mount Vernon NY
+Mountain Brook AL
+Mountain Home AFB ID
+Mountain View CA
+Mountain View MO
+Muncie IN
+Muncy PA
+Munich Germany
+Murfreesboro TN
+Murray UT
+Muskegon MI
+Muskogee OK
+Myrtle Beach SC
+N djamina Chad
+N Bellmore NY
+N Cape May NJ
+N Charleston SC
+N Hollywood CA
+N Las Vegas NV
+N Little Rock AR
+Naalehu HI
+Nagasaki Japan
+Nagoya Japan
+Nagpur India
+Nairobi Kenya
+Namorik Marshall Is
+Nampa ID
+Nandi Fiji
+Napa CA
+Naperville IL
+Naples FL
+Naples Italy
+Nashua NH
+Nashville TN
+Nassau Bahamas
+Natal Brazil
+Natchez MS
+Needles CA
+Nellis AFB NV
+Nenana AK
+Neponsit NY
+Nevada MO
+New Albany IN
+New Bedford MA
+New Britian CT
+New Brunswick NJ
+New Carrollton MD
+New Castle Australia
+New Castle DE
+New Castle IN
+New Castle PA
+New Delhi India
+New Hampton IA
+New Hartford CT
+New Haven CT
+New Iberia LA
+New London CT
+New Meadows ID
+New Orleans LA
+New Rochelle NY
+New Rockford ND
+New Washoe City CA
+New York NY
+Newark DE
+Newark NJ
+Newcastle England
+Newell SD
+Newport Beach CA
+Newport News VA
+Newport KY
+Newport NH
+Newport OR
+Newport RI
+Newport VT
+Newton MA
+Newton NJ
+Niagara Falls NY
+Nice France
+Nicosia Cyprus
+Nitro WV
+Nogales AZ
+Nome AK
+Norco CA
+Norfolk NE
+Norfolk VA
+Norman OK
+North Bay ON
+North Olmstead OH
+North Platte NE
+Northfield MN
+Northport WA
+Northrop Strip NM
+Northway AK
+Norton KS
+Norton VA
+Norwalk CA
+Norwalk CT
+Norway ME
+Nottingham England
+Nouan France
+Noumea New Caledonia
+Novi MI
+Nurnberg BY Germany
+Oak Park IL
+Oak Ridge TN
+Oakfield ME
+Oakland CA
+Oakley KS
+Oberlin OH
+Oberpfaffenhofen Germ
+Ocala FL
+Ocean City MD
+Ocean Grove NJ
+Oceanside CA
+Odessa TX
+Ogallala NE
+Ogden UT
+Ohakea New Zealand
+Okinawa Japan
+Oklahoma City OK
+Olathe KS
+Oldendorf Germany
+Olean NY
+Olympia WA
+Omaha NE
+Ontario CA
+Oostende Belgium
+Opelika AL
+Opheim MT
+Oran Algeria
+Orange Park FL
+Orange CA
+Orange CT
+Orangeburg SC
+Orem UT
+Orlando FL
+Orleans France
+Osaka Japan
+Osborne KS
+Oshkosh WI
+Oslo Norway
+Ottawa ON
+Ottumwa IA
+Overland Park KS
+Owensboro KY
+Oxford MS
+Oxford NC
+Oxnard CA
+Ozark AR
+Paauilo HI
+Pacific Beach CA
+Pacific MO
+Paducah KY
+Pagan Island
+Pago Pago Samoa
+Palembang Indonesia
+Palm City FL
+Palmdale CA
+Palmer AK
+Palo Alto CA
+Panama City FL
+Panama City Panama
+Papeete Tahiti
+Paradise NV
+Paris France
+Paris IL
+Park Rapids MN
+Park View NM
+Parkersburg WV
+Parma OH
+Parsons WV
+Pasadena CA
+Pasadena TX
+Pascagoula MS
+Paterson NJ
+Pawtucket RI
+Peace River AB
+Pearce Australia
+Pembina ND
+Penang Malaysia
+Pendleton OR
+Pensacola FL
+Peoria IL
+Perth Amboy NJ
+Perth Australia
+Peru IL
+Peshawar Pakistan
+Petersburg AK
+Petersburg VA
+Phenix City AL
+Philadelphia PA
+Philip SD
+Phoenix AZ
+Phuket Thailand
+Picayune MS
+Pico Rivera CA
+Pierce NE
+Pierre SD
+Pilot Hill CA
+Pine Bluff AR
+Pine City MN
+Pitcairn Island
+Pittsburgh PA
+Pittsfield MA
+Placerville CA
+Plainfield NJ
+Plaisance Mauritius
+Plano TX
+Plattsburgh AFB NY
+Plattsburgh NY
+Plymouth MA
+Plymouth MN
+Plymouth NH
+Pocatello ID
+Pocomoke City MD
+Pohnpei Micronesia
+Point Hope AK
+Polson MT
+Pomona CA
+Pompano Beach FL
+Ponca City OK
+Ponce PR
+Pontiac MI
+Poplar Bluff MO
+Poplar MT
+Port Allen HI
+Port Arthur TX
+Port Huron MI
+Port of Spain Trinida
+Port Salerno FL
+Port Sulphur LA
+Port au Prince Haiti
+Portland ME
+Portland OR
+Portsmouth England
+Portsmouth NH
+Portsmouth OH
+Portsmouth VA
+Potomac MD
+Pottstown PA
+Poughkeepsie NY
+Prague Czech Rep 
+Pratt KS
+Prescott AZ
+Preston ID
+Pretoria S  Africa
+Primghar IA
+Prince Albert SK
+Prince George BC
+Prince Rupert BC
+Princeton MO
+Princeton NJ
+Princeton WV
+Proctor VT
+Prosser WA
+Providence RI
+Provo UT
+Prudhoe Bay AK
+Pueblo CO
+Puerto Montt Chile
+Puerto Real PR
+Putnam CT
+Puyallup WA
+Quakertown PA
+Quebec PQ
+Quincy MA
+Quito Ecuador
+Raanana Israel
+Rabat Morocco
+Racine WI
+Raleigh NC
+Ramstein AB Germany
+Rancho Palos Verdes CA
+Randolph VT
+Rangeley ME
+Rangoon Myanmar
+Rapid City SD
+Rawalpindi Pakistan
+Rawlins WY
+Reading PA
+Recife Brazil
+Redding CA
+Redondo Beach CA
+Redwood City CA
+Regensburg Germany
+Regina SK
+Reims France
+Rennes France
+Reno NV
+Reseda CA
+Rexburg ID
+Reykjavik Iceland
+Rhinelander WI
+Richardson TX
+Richland WA
+Richmond Australia
+Richmond CA
+Richmond KY
+Richmond UT
+Richmond VA
+Rifle CO
+Rio de Janeiro Brazil
+Riverside CA
+Riverton WY
+Riyadh Saudi Arabia
+Roanoke VA
+Robinson IL
+Rochdale Lanc England
+Rochester Hills MI
+Rochester MN
+Rochester NH
+Rochester NY
+Rock Hill SC
+Rock Springs WY
+Rockford IL
+Rockland ME
+Rockport MO
+Rockville MD
+Rockwood ME
+Rocky Mount NC
+Rogers AR
+Rome Italy
+Roosevelt Roads PR
+Rosemead CA
+Roseville CA
+Roseville MI
+Rostock Germany
+Roswell GA
+Roswell NM
+Rota Island
+Rotterdam Netherlands
+Rouen France
+Roundup MT
+Rowland Heights CA
+Royal Oak MI
+Ruby AK
+Rugby ND
+Rumford RI
+Russell KS
+Ruston LA
+Rutland VT
+S  Portland ME
+Saco ME
+Sacramento CA
+Saginaw MI
+Saginaw TX
+Saint Pierre  Miquelon
+Saipan Island
+Sale Australia
+Salem MA
+Salem NH
+Salem OR
+Salem WV
+Salina KS
+Salina UT
+Salinas CA
+Salisbury MD
+Sallisaw OK
+Salmon ID
+Salt Lake City UT
+Salton City CA
+Salzburg Austria
+Samarrah Iraq
+San Angelo TX
+San Antonio TX
+San Bernardino CA
+San Diego CA
+San Francisco CA
+San Jose CA
+San Jose Costa Rica
+San Juan PR
+San Leandro CA
+San Mateo CA
+San Pedro CA
+San Salvador El Salv 
+Sanders AZ
+Sandersville GA
+Sandhurst Surry ENG
+Sandpoint ID
+Sanford ME
+Santa Ana CA
+Santa Barbara CA
+Santa Clara CA
+Santa Cruz Bolivia
+Santa Fe NM
+Santa Maria CA
+Santa Monica CA
+Santa Rosa CA
+Santa Rosa NM
+Santiago Chile
+Santo Domingo Dom  Re
+Sao Paulo Brazil
+Sapporo Japan
+Sarajevo Bosnia
+Sarasota FL
+Sargent NE
+Saskatoon Sask 
+Sault Ste  Marie MI
+Savannah GA
+Scarborough ON
+Schaumburg IL
+Schenectady NY
+Schuyler NE
+Scottsdale AZ
+Scranton PA
+Seabrook TX
+Seaford DE
+Seal Beach CA
+Seattle WA
+Sebastian FL
+Selma AL
+Selter Germany
+Seoul S  Korea
+Sept Iles PQ
+Seville Spain
+Seward AK
+Seychelles Is
+Seymour TN
+Shanghai China
+Shannon Ireland
+Shawnee KS
+Sheboygan WI
+Sheffield England
+Shelby OH
+Shelbyville TN
+Sheldon IA
+Shell Beach CA
+Shemya AK
+Sherbrooke PQ
+Sheridan WY
+Shiraz Iran
+Shoshone ID
+Shreveport LA
+Shungnak AK
+Sibu Malaysia
+Sigonella Sicily
+Silver Spring MD
+Simi Valley CA
+Singapore
+Sioux City IA
+Sioux Falls SD
+Sioux Lookout ON
+Sioux Narrows ON
+Sitka AK
+Sittwe Myanmar
+Skokie IL
+Slidell LA
+Smyrna DE
+Soda Springs ID
+Soeborg Denmark
+Sofia Bulgaria
+Somerset KY
+Somerset NJ
+Somerville MA
+Somerville NJ
+Sondrestrom Gnld 
+Sonoma CA
+South Bend IN
+South Gate CA
+South Kauai VORTAC HI
+Southampton England
+Southampton NY
+Southfield MI
+Southington CT
+Sparks NV
+Spartanburg SC
+Spenard AK
+Spencer IA
+Spokane WA
+Springdale AR
+Springfield IL
+Springfield MA
+Springfield MO
+Springfield OH
+Springfield OR
+Springfield VT
+St Hubert Quebec
+St Albans VT
+St Catherines ON
+St Charles MO
+St Clair Shores MI
+St Cloud MN
+St Croix VI
+St George UT
+St John s Nfld 
+St John NB
+St Joseph MO
+St Louis Park MN
+St Louis MO
+St Lucia
+St Michales MD
+St Nazaire France
+St Paul MN
+St Petersburg FL
+St Petersburg Russia
+St Thomas VI
+Stamford CT
+Stanley Falkland Is 
+Staten Island NY
+Statesville NC
+Steamboat Springs CO
+Sterling Heights MI
+Sterling IL
+Sterling VA
+Steubenville OH
+Stockholm ME
+Stockholm Sweden
+Stockton CA
+Stony Brook NY
+Strasbourg France
+Stratford CT
+Sturtevant WI
+Stuttgart Germany
+Sudbury ON
+Suffolk VA
+Sumter SC
+Sun Valley CA
+Sunnyvale CA
+Sunrise FL
+Superior WI
+Swannanoa NC
+Swift Current Sask 
+Sydney Australia
+Sydney NS
+Syracuse NY
+Tabriz Iran
+Tacoma WA
+Tahiti
+Tai Tam Hong Kong
+Taipei Taiwan
+Talara Peru
+Tallahassee FL
+Tampa FL
+Tangier Morocco
+Taora Island
+Taylor MI
+Tegucigalpa Honduras
+Tehran Iran
+Teignmouth England
+Tel Aviv Israel
+Tempe AZ
+Tengah Singapore
+Tenino WA
+Tern Island HI
+Terre Haute IN
+Texarkana AR
+Texarkana TX
+The Pas MB
+Thibodaux LA
+Thomasville AL
+Thornton CO
+Thousand Oaks CA
+Thule Greenland
+Thunder Bay ON
+Tifton GA
+Tillson NY
+Timmins ON
+Tinak Marshall Is 
+Tinian Island
+Tokyo Japan
+Toledo OH
+Tombstone AZ
+Topeka KS
+Toronto ON
+Torrance CA
+Torrington CT
+Toulouse France
+Tours France
+Townsville Australia
+Trapani Sicily
+Traverse City MI
+Trenton NJ
+Trinidad CO
+Tripoli Libya
+Trois Rivieres PQ
+Troy MI
+Troy MT
+Troy NY
+Truk Atoll Micronesia
+Truth or Consequences
+Tucker GA
+Tucson AZ
+Tucumcari NM
+Tulsa OK
+Tunis Tunisia
+Tupelo MS
+Tuscaloosa AL
+Twin Falls ID
+Tyler TX
+Ubon Thailand
+Udon Thani Thailand
+Uelzen Germany
+Ujung Pandang Indones
+Unalaska AK
+Union City NJ
+Union City TN
+University City MO
+Upolu Point HI
+Upolu HI
+Urbana IL
+Utica NY
+Utirik Marshall Is 
+Vacaville CA
+Val d or PQ
+Valdez AK
+Valdosta GA
+Vale OR
+Valentine NE
+Valhalla NY
+Vallejo CA
+Valletta Malta
+Valparaiso Chile
+Van Buren ME
+Van Nuys CA
+Vancouver BC
+Vancouver WA
+Vandans Austria
+Vandenberg AFB CA
+Vaughn NM
+Venice CA
+Venice Italy
+Ventura CA
+Vermillion SD
+Vernal UT
+Vicksburg MS
+Victoria BC
+Victoria TX
+Vienna Austria
+Vineland NJ
+Virginia Beach VA
+Visalia CA
+Vladivostok Russia
+Vols Austria
+W  Fargo ND
+W  Hartford CT
+W  Springfield MA
+W  Warwick RI
+Wabash IN
+Waco TX
+Wahiawa HI
+Waialua HI
+Waikola HI
+Wailuku HI
+Waimea HI
+Waipahu HI
+Wake Island
+Wakefield MA
+Waldoboro ME
+Walker LA
+Walla Walla WA
+Wallace ID
+Wallowa OR
+Walnut Creek CA
+Waltham MA
+Warner Robins GA
+Warren MI
+Warren OH
+Warren PA
+Warsaw Poland
+Warwick RI
+Wasco OR
+Waseca MN
+Washington (USNO) DC
+Washington DC
+Washington IL
+Waterbury CT
+Waterloo IA
+Waterloo ON
+Watertown NY
+Watertown SD
+Waterville WA
+Waukegan IL
+Waukesha WI
+Wausau WI
+Wauwatosa WI
+Waycross GA
+Wayne NE
+Waynesboro VA
+Waynesburg PA
+Weirs NH
+Weirton WV
+Wellington N Zealand
+Wells NV
+Wendover UT
+West Allis WI
+West Covina CA
+West Haven CT
+West Hills CA
+West Memphis AR
+West Palm Beach FL
+Westbrook ME
+Westerly RI
+Westland MI
+Westminster CA
+Westminster CO
+Westminster MD
+Westover AFB MA
+Weymouth MA
+Wheaton MD
+Wheeler AFB HI
+Wheeling WV
+Whenuapai New Zealand
+Whidbey Is  WA
+White Plains NY
+Whitehorse Yukon
+Whittier CA
+Wichita Falls TX
+Wichita KS
+Wickenburg AZ
+Wilder ID
+Wilkes Barre PA
+Willcox AZ
+Williston ND
+Wilmington DE
+Wilmington NC
+Winchester ID
+Winchester KY
+Winchester NH
+Winchester VA
+Windam CT
+Windsor ON
+Winnemucca NV
+Winner SD
+Winnett MT
+Winnfield LA
+Winnipeg MB
+Winona MN
+Winona MS
+Winooski VT
+Winsted CT
+Winston Salem NC
+Wolphaartsdijk Neth 
+Woodland Hills CA
+Woodsville NH
+Woodward OK
+Woonsocket RI
+Woonsocket SD
+Worcester MA
+Wotje Marshall Is 
+Wright Patterson AFB
+Wurzburg Germany
+Wynnewood PA
+Wyoming MI
+Wytheville VA
+Yakima WA
+Yakutat AK
+Yalta Ukraine
+Yankton SD
+Yap Island Micronesia
+Yardley PA
+Yellowknife NWT
+Yonkers NY
+York PA
+Yorktown Heights NY
+Youngstown OH
+Yuba City CA
+Yuma CO
+Zanesville OH
+Zaragoza Spain
+Zurich Switzerland
+Zwickau Germany

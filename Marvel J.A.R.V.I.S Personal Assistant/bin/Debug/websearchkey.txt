@@ -1,0 +1,20 @@
+Update commands
+start reading
+search
+pause
+resume
+stop
+close website search
+hide website reader
+show website reader
+show website reader again
+change voice to brian
+change voice to salli
+change voice to microsoft devid
+change voice to amy
+change voice to microsoft zira
+read the result
+read the results
+whats the results
+whats the result
+what is the result

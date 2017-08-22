@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="backicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\backicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blowing_snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\blowing-snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blustery" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\blustery.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clear_night" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\clear-night.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clock_buttons_bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\clock-buttons-bg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\cloudy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\cold.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drizzle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\drizzle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dust" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\dust.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fair_day" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\fair-day.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fair_night" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\fair-night.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foggy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\foggy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forwardicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\forwardicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="freezing_drizzle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\freezing-drizzle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="freezing_rain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\freezing-rain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\hail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="haze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\haze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="heavy_snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\heavy-snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\hot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="isolated_thundershowers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\isolated-thundershowers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jarvis_clock_main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-clock-main.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_browse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-browse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_browse1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-browse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_browse2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-browse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_change_skin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-change-skin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_change_skin1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-change-skin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_change_skin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-change-skin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_email_reader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-email-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_email_reader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-email-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_email_reader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-email-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_facebook_msg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-facebook-msg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_facebook_msg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-facebook-msg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_facebook_msg2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-facebook-msg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_face_recog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-face-recog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_face_recog1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-face-recog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_face_recog2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-face-recog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_media_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-media-player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_media_player1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-media-player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_media_player2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-media-player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_name_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-name-panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_name_panel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-name-panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_name_panel2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-name-panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_onlinetv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-onlinetv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_onlinetv1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-onlinetv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_onlinetv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-onlinetv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_reminder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-reminder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_reminder1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-reminder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_reminder2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-reminder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_news" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-news.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_news1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-news.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_news2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-news.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_settings1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_settings2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_skype" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-skype.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_skype1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-skype.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_skype2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-skype.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_weather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-weather.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_weather1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-weather.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_weather2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-weather.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_webreader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-webreader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_webreader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-webreader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_right_webreader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-right-webreader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_search_web" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-search-web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_search_web1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-search-web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_search_web2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-search-web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_start_menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-start-menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_start_menu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-start-menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_start_menu2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-start-menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_text_reader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-text-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_text_reader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-text-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_text_reader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-text-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_voice_commands" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-voice-commands.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_voice_commands1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-voice-commands.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_voice_commands2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-voice-commands.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_weather_repoart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-weather-repoart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_weather_repoart1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-weather-repoart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_weather_repoart2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-weather-repoart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_webcompiler" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-webcompiler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_webcompiler1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-webcompiler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_webcompiler2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-webcompiler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_website_reader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-website-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_website_reader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-website-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jarvis_menu_button_website_reader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\jarvis-menu-button-website-reader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_snow_showers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\light-snow-showers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Marvelicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marvelicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Marvelicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marvelicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MarvelIcons" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marvelicons.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayeraddplaylist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayeraddplaylist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayerfullscreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayerfullscreen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayericon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayericon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayervolumedown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayervolumedown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayervolumeup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayervolumeup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediaplayervolumeupp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mediaplayervolumeupp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnfastfarword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnfastfarword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnfastreverse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnfastreverse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnloop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnloop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnpause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnpause.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnplay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnprevous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnprevous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnstop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnstop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_btnvolum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-btnvolum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="media_previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\media-previous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mixed_rain_and_hail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mixed-rain-and-hail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mixed_rain_and_sleet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mixed-rain-and-sleet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mixed_rain_and_snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mixed-rain-and-snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mostly_cloudy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mostly-cloudy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="partly_cloudy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\partly-cloudy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scattered_snow_showers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\scattered-snow-showers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="severe_thunderstorms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\severe-thunderstorms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="showers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\showers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sleet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\sleet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smoky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\smoky.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snow1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snow_flurries" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\snow-flurries.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snow_showers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\snow-showers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sunny" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\sunny.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thundershowers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\thundershowers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thunderstorms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\thunderstorms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tornado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\tornado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="windy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\windy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

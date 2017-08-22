@@ -1,0 +1,13 @@
+get bing news
+get google news
+continue
+pause
+resume
+stop
+convert text to audio
+jarvis close news report
+close news report
+minimize
+jarvis hide news report
+jarvis show news report
+jarvis show news report again
