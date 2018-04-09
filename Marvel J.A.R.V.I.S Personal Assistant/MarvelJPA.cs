@@ -206,7 +206,7 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
                 }
                 if (!File.Exists(weatherchpath))
                 {
-                    sw = File.CreateText(weatherchpath); sw.Write("Get weather report of athens greece"); sw.Close();
+                    sw = File.CreateText(weatherchpath); sw.Write("Get weather report of "); sw.Close();
                 }
                 if (!File.Exists(weathercitypath))
                 {
