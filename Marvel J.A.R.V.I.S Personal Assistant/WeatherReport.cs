@@ -67,11 +67,11 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
                 weathercitypath = Properties.Settings.Default.WCN;
                 if (!File.Exists(MarvelJPA.weatherchpath))
                 {
-                    sw = File.CreateText(MarvelJPA.weatherchpath); sw.Write("Get weather report from athens greece"); sw.Close();
+                    sw = File.CreateText(MarvelJPA.weatherchpath); sw.Write("Get weather report from"); sw.Close();
                 }
                 if (!File.Exists(MarvelJPA.weathercitypath))
                 {
-                    sw = File.CreateText(MarvelJPA.weathercitypath); sw.Write("athens greece"); sw.Close();
+                    sw = File.CreateText(MarvelJPA.weathercitypath); sw.Write("location gose here"); sw.Close();
                 }
                 ArrayWeatherCommands = File.ReadAllLines(MarvelJPA.weatherchpath); //This loads all written commands in our Custom Commands text documents into arrays so they can be loaded into our grammars
                 ArrayWeatherCity = File.ReadAllLines(MarvelJPA.weathercitypath);
