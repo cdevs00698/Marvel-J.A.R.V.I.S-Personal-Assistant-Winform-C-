@@ -35,7 +35,7 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
         double timer = 10;
         int count = 1;
         int i = 0;
-        bool flag = false;
+        bool jarvis = false;
         Random rnd = new Random();
         StreamWriter sw;
         Form slfrm;
@@ -210,7 +210,7 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
                 }
                 if (!File.Exists(weathercitypath))
                 {
-                    sw = File.CreateText(weathercitypath); sw.Write("athens greece"); sw.Close();
+                    sw = File.CreateText(weathercitypath); sw.Write("locations gose here"); sw.Close();
                 }
                 if (!File.Exists(youtubecpath))
                 {
@@ -323,7 +323,7 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
         }
         private void jarvis_SpeakCompleted(object sender, SpeakCompletedEventArgs e)
         {
-
+            jarvis = false;
         }
 
         private void engine_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
@@ -333,6 +333,9 @@ namespace Marvel_J.A.R.V.I.S_Personal_Assistant
             checkinternet.Replace("True", "Connected");
             checkinternet.Replace("False", "Disconnected");
             string speech = (e.Result.Text);
+            if(e.Result.Text == "jarvis"){
+              jarvis = true;
+            }
             switch (speech)
             {
                 //GREETINGS
